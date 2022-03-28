@@ -11,7 +11,7 @@ $ git clone https://github.com/SarahHenriette/qr-code-component.git
 
 Allez au repo cloné :
 ```
-$ cd EliseRousseau_2_29042021
+$ cd qr-code-component
 ```
 
 Installez live-server pour lancer un serveur local :
@@ -36,4 +36,4 @@ Puis allez à l'adresse : `http://127.0.0.1:5500/`
 - convention de nommage BEM 
 
 # Démo :
-https://elise-rousseau-2-29042021.vercel.app/
+https://qr-code-component-dun.vercel.app/
